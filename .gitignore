@@ -1,0 +1,49 @@
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#####################
+# Java Ignore files #
+#####################
+*.class
+
+#####################
+# C++ Ignore files #
+#####################
+*.gch
+*.out
+
+##########################
+# Jetbrains Ignore files #
+##########################
+*.iml
+.idea/
+
+#################
+# Course       #
+#################
+ppt/
+*.key
+
+01.md
+02.md
+03.md
+04.md
+05.md
+06.md
+07.md
+08.md
+09.md
+10.md
+11.md
+12.md
+13.md
+14.md
+15.md
